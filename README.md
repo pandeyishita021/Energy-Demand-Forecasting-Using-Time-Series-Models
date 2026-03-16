@@ -1,1 +1,1 @@
-# Energy-Demand-Forecasting-Using-Time-Series-Models
+# Energy-Demand-Forecasting-Using-Time-Series-Models-Time series forecasting project predicting electricity demand and solar generation using ARIMA models, ADF stationarity testing, and ACF/PACF analysis.
